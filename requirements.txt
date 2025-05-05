@@ -1,0 +1,5 @@
+
+--index-url http://13.218.179.255:3141/root/elsai-core/
+--trusted-host 13.218.179.255
+elsai-core==0.1.0
+streamlit
