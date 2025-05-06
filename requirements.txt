@@ -1,3 +1,4 @@
+--index-url http://13.218.179.255:3141/root/elsai-core/
+--trusted-host 13.218.179.255
+elsai-core==0.1.0
 streamlit
-git+https://abhinivesh0305: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@github.com/Scanflow-ai/elsai-core.git@elsai-core-dev#egg=elsai-core
-
